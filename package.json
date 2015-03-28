@@ -39,7 +39,7 @@
     "configPath": "tests/dummy/config"
   },
   "dependencies": {
-    "contextify": "^0.1.11",
+    "contextify": "^0.1.13",
     "najax": "^0.1.5",
     "rsvp": "^3.0.16",
     "simple-dom": "0.2.1",
